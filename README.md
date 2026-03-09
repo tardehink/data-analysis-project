@@ -4,17 +4,18 @@
 This repository contains a collection of personal data analysis projects.
 
 ## Features
-- Feature 1
-- Feature 2
+- Data cleaning and preparation
+- Visualization of results
 
 ## Technology Stack
-- Technology 1
-- Technology 2
+- Python
+- Pandas
+- Matplotlib
 
 ## Usage
-1. Step 1
-2. Step 2
+1. Clone the repository.
+2. Install the required packages.
 
 ## Future Plans
-- Plan 1
-- Plan 2
+- Add more datasets
+- Implement machine learning models
